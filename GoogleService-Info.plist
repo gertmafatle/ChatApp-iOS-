@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>836708742780-jfb7cagvf6c3rgrqk1sv0pqp1q0636un.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.836708742780-jfb7cagvf6c3rgrqk1sv0pqp1q0636un</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBIewtWpUIYzEyccrM19TSqddey8OoJtzw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>836708742780</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>gert.TipApp</string>
+	<key>PROJECT_ID</key>
+	<string>tipapp-f9ddc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tipapp-f9ddc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1289044865:ios:af40fbae15a96c82</string>
+	<key>DATABASE_URL</key>
+	<string>https://tipapp-f9ddc.firebaseio.com</string>
+</dict>
+</plist>
